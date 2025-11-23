@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "TerraFirmaGreg-Modern",
-    "version": "0.11.7",
+    "version": "0.11.8",
     "author": "Exception, Xikaro",
     "files": [
         {
@@ -81,7 +81,7 @@
         },
         {
             "projectID": 1091339,
-            "fileID": 7107566,
+            "fileID": 7189127,
             "required": true
         },
         {
@@ -101,7 +101,7 @@
         },
         {
             "projectID": 877545,
-            "fileID": 6814891,
+            "fileID": 7200580,
             "required": true
         },
         {
@@ -286,7 +286,7 @@
         },
         {
             "projectID": 328085,
-            "fileID": 6641603,
+            "fileID": 7178761,
             "required": true
         },
         {
@@ -301,7 +301,7 @@
         },
         {
             "projectID": 1218807,
-            "fileID": 6925756,
+            "fileID": 7159834,
             "required": true
         },
         {
@@ -316,7 +316,7 @@
         },
         {
             "projectID": 947914,
-            "fileID": 6685744,
+            "fileID": 7201963,
             "required": true
         },
         {
@@ -331,7 +331,7 @@
         },
         {
             "projectID": 688231,
-            "fileID": 6963175,
+            "fileID": 7201308,
             "required": true
         },
         {
@@ -341,7 +341,7 @@
         },
         {
             "projectID": 272335,
-            "fileID": 6880321,
+            "fileID": 7180783,
             "required": true
         },
         {
@@ -351,7 +351,7 @@
         },
         {
             "projectID": 1354541,
-            "fileID": 7168614,
+            "fileID": 7183003,
             "required": true
         },
         {
@@ -386,7 +386,7 @@
         },
         {
             "projectID": 527361,
-            "fileID": 6870756,
+            "fileID": 7185824,
             "required": true
         },
         {
@@ -416,7 +416,7 @@
         },
         {
             "projectID": 448233,
-            "fileID": 7125341,
+            "fileID": 7167800,
             "required": true
         },
         {
@@ -526,7 +526,7 @@
         },
         {
             "projectID": 453394,
-            "fileID": 6990927,
+            "fileID": 7184123,
             "required": true
         },
         {
@@ -571,12 +571,17 @@
         },
         {
             "projectID": 901996,
-            "fileID": 7047589,
+            "fileID": 7184105,
             "required": true
         },
         {
             "projectID": 890405,
             "fileID": 7150919,
+            "required": true
+        },
+        {
+            "projectID": 1348330,
+            "fileID": 7197440,
             "required": true
         },
         {
@@ -746,7 +751,7 @@
         },
         {
             "projectID": 790626,
-            "fileID": 6837713,
+            "fileID": 7200213,
             "required": true
         },
         {
@@ -756,7 +761,7 @@
         },
         {
             "projectID": 499980,
-            "fileID": 7119907,
+            "fileID": 7191950,
             "required": true
         },
         {
@@ -921,7 +926,7 @@
         },
         {
             "projectID": 243190,
-            "fileID": 6993788,
+            "fileID": 7193397,
             "required": true
         },
         {
@@ -1101,7 +1106,7 @@
         },
         {
             "projectID": 1193263,
-            "fileID": 7041592,
+            "fileID": 7188921,
             "required": true
         },
         {
@@ -1111,7 +1116,7 @@
         },
         {
             "projectID": 513402,
-            "fileID": 7163303,
+            "fileID": 7231807,
             "required": true
         },
         {
@@ -1122,6 +1127,11 @@
         {
             "projectID": 969378,
             "fileID": 7034860,
+            "required": true
+        },
+        {
+            "projectID": 558010,
+            "fileID": 4844272,
             "required": true
         },
         {
@@ -1156,7 +1166,7 @@
         },
         {
             "projectID": 1255448,
-            "fileID": 7105796,
+            "fileID": 7150799,
             "required": true
         },
         {
@@ -1182,6 +1192,11 @@
         {
             "projectID": 667299,
             "fileID": 6336646,
+            "required": true
+        },
+        {
+            "projectID": 1338332,
+            "fileID": 7025159,
             "required": true
         },
         {
