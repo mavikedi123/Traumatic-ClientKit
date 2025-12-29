@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "TerraFirmaGreg-Modern",
-    "version": "0.11.10",
+    "version": "0.11.12",
     "author": "Exception, Xikaro",
     "files": [
         {
@@ -91,7 +91,7 @@
         },
         {
             "projectID": 254284,
-            "fileID": 6570130,
+            "fileID": 7321586,
             "required": true
         },
         {
@@ -416,7 +416,7 @@
         },
         {
             "projectID": 448233,
-            "fileID": 7167800,
+            "fileID": 7313354,
             "required": true
         },
         {
@@ -496,7 +496,7 @@
         },
         {
             "projectID": 904356,
-            "fileID": 6666671,
+            "fileID": 7317271,
             "required": true
         },
         {
@@ -546,7 +546,7 @@
         },
         {
             "projectID": 1005914,
-            "fileID": 7085017,
+            "fileID": 7331237,
             "required": true
         },
         {
@@ -571,7 +571,7 @@
         },
         {
             "projectID": 901996,
-            "fileID": 7262033,
+            "fileID": 7330800,
             "required": true
         },
         {
@@ -616,7 +616,7 @@
         },
         {
             "projectID": 686911,
-            "fileID": 6997261,
+            "fileID": 7313094,
             "required": true
         },
         {
@@ -756,7 +756,7 @@
         },
         {
             "projectID": 1267477,
-            "fileID": 6768454,
+            "fileID": 7339889,
             "required": true
         },
         {
@@ -801,7 +801,7 @@
         },
         {
             "projectID": 433760,
-            "fileID": 7129302,
+            "fileID": 7325366,
             "required": true
         },
         {
@@ -901,7 +901,7 @@
         },
         {
             "projectID": 1048212,
-            "fileID": 5852507,
+            "fileID": 7339318,
             "required": true
         },
         {
@@ -1005,6 +1005,11 @@
             "required": true
         },
         {
+            "projectID": 1379694,
+            "fileID": 7223628,
+            "required": true
+        },
+        {
             "projectID": 836902,
             "fileID": 4862357,
             "required": true
@@ -1052,6 +1057,11 @@
         {
             "projectID": 1258250,
             "fileID": 7105832,
+            "required": true
+        },
+        {
+            "projectID": 1383031,
+            "fileID": 7270344,
             "required": true
         },
         {
@@ -1116,7 +1126,7 @@
         },
         {
             "projectID": 513402,
-            "fileID": 7311305,
+            "fileID": 7353303,
             "required": true
         },
         {
@@ -1165,8 +1175,18 @@
             "required": true
         },
         {
+            "projectID": 664832,
+            "fileID": 5538604,
+            "required": true
+        },
+        {
             "projectID": 1255448,
             "fileID": 7150799,
+            "required": true
+        },
+        {
+            "projectID": 1077532,
+            "fileID": 5607145,
             "required": true
         },
         {
@@ -1196,7 +1216,7 @@
         },
         {
             "projectID": 1338332,
-            "fileID": 7025159,
+            "fileID": 7353104,
             "required": true
         },
         {
